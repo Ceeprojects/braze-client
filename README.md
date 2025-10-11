@@ -1,15 +1,12 @@
 # braze-client
 A Python client for the Braze REST API
 
-[![Build Status](https://travis-ci.com/kpeutcr8/braze-client.svg?branch=master)](https://travis-ci.com/dtatarkin/braze-client)
-[![Coverage](https://codecov.io/gh/kpeutcr8/braze-client/branch/master/graph/badge.svg)](https://codecov.io/gh/dtatarkin/braze-client)
-
 ### How to install
 
-Make sure you have Python 2.7+ or 3.6+ installed and run:
+Make sure you have Python 3.9+ installed and run:
 
 ```
-$ pip install braze-client-p311
+$ pip install braze-client
 ```
 
 ### How to use
